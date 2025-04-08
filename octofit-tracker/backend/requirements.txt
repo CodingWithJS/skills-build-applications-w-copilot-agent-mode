@@ -1,0 +1,6 @@
+django
+djangorestframework
+pymongo
+djongo
+python-decouple
+gunicornsudo systemctl status mongod
